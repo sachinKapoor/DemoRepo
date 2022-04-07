@@ -1,0 +1,18 @@
+{
+  "appName": "MIPS Distributed Capture Client",
+  "appVersion": "-Appversion-",
+  "sites": [
+    {
+      "siteName": "TEST",
+      "siteUrl": "https://wsvmmipsdev01.inside.test/mips/145/test/distcapt",
+      "stations": [
+        {
+          "identifier": "",
+          "description": "-computername-",
+          "isActive": true
+        }
+      ],
+      "isActive": true
+    }
+  ]
+}
